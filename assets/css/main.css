@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --emphasis-color: #DE9142; /*Cor destaque*/
+    --text-default: #3A3E44; /*Texto padrão*/
+}
+body{
+    background: #FFF;
+    color: var(--text-default);
+}
+h1{
+    font-family: 'Creepster', cursive;
+    font-weight: 400;
+    color: var(--emphasis-color);
+}
+h2{
+    font-family: 'Quicksand', sans-serif;
+}
+.nuxt-link-exact-active{
+    border-bottom: 1px solid var(--emphasis-color);
+}

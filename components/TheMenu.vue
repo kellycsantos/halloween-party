@@ -49,7 +49,6 @@ export default {
       } else {
         this.menuIcon = "open-menu";
       }
-      console.log("abrir menu");
     },
   },
 };

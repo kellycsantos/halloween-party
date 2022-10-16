@@ -1,7 +1,7 @@
-# Halloween Party
+# Halloween Party 🎃
 
 <img src="template.jpeg" alt="halloween party template">
-
+> Landing page criada com Nuxt.js para aplicar alguns conceitos sobre o framework.
 ## 🚀 Instalando Halloween Party
 
 ```bash

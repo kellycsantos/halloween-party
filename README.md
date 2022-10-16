@@ -1,6 +1,6 @@
-# halloween-party
+# Halloween Party
 
-## Build Setup
+## 🚀 Instalando <nome_do_projeto>
 
 ```bash
 # install dependencies

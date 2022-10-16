@@ -1,5 +1,7 @@
 # Halloween Party
 
+<img src="template.jpeg" alt="halloween party template">
+
 ## 🚀 Instalando Halloween Party
 
 ```bash
